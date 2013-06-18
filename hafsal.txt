@@ -1,8 +1,0 @@
-iiiitesting
-tttiiii
-testing
-<<<<<<< HEAD
-=======
-
-asdasd
->>>>>>> parent of b7af4a1... lastchanged
